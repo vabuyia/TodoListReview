@@ -1,0 +1,27 @@
+{
+  "name": "todolistreview",
+  "version": "1.0.0",
+  "description": "Looking for review using the best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vabuyia/TodoListReview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vabuyia/TodoListReview/issues"
+  },
+  "homepage": "https://github.com/vabuyia/TodoListReview#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
